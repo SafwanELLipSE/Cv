@@ -1,0 +1,163 @@
+*{
+	margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.HeadInfo h1{
+	font-weight: bold;
+	color:#002E58;
+	font-size: 50px;
+}
+
+.HeadInfo h3{
+
+	color:#002E58;
+	font-size: 30px;
+
+}
+.HeadInfo h4{
+	text-align: center;
+	font-size: 18px;
+	
+}
+
+.XP, .ED, .additional, .skills, .pinfo, .software{
+	margin-bottom: 5px;
+	border-bottom: 1px solid #D5D6D6;
+}
+
+.XP i, .ED i, .additional i, .skills i, .pinfo i, .software i{
+	float: left;
+    font-size: 32px;
+    margin-right: 10px;
+    padding: 6px;
+    background: #003D74;
+    color: #FFF;
+}
+
+
+.skilldetails{
+	float:right;
+	padding-bottom: 30px;
+}
+
+
+
+.bar1{
+	max-width: 90%;
+	content:'';
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 12px;
+	display:block;
+	z-index: -1;
+	background: #003D74;
+	position: relative;
+}
+.bar2{
+	max-width: 90%;
+	content:'';
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 12px;
+	display:block;
+	z-index: -1;
+	background: #003D74;
+	position: relative;
+}
+.bar3{
+	max-width: 90%;
+	content:'';
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 12px;
+	display:block;
+	z-index: -1;
+	background: #003D74;
+	position: relative;
+}
+.bar4{
+	max-width: 90%;
+	content:'';
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 12px;
+	display:block;
+	z-index: -1;
+	background: #003D74;
+	position: relative;
+}
+.bar5{
+	max-width: 70%;
+	content:'';
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 12px;
+	display:block;
+	z-index: -1;
+	background: #003D74;
+	position: relative;
+}
+.bar6{
+	max-width: 80%;
+	content:'';
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 12px;
+	display:block;
+	z-index: -1;
+	background: #003D74;
+	position: relative;
+}
+.bar7{
+	max-width: 90%;
+	content:'';
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 12px;
+	display:block;
+	z-index: -1;
+	background: #003D74;
+	position: relative;
+}
+.bar8{
+	max-width: 90%;
+	content:'';
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 12px;
+	display:block;
+	z-index: -1;
+	background: #003D74;
+	position: relative;
+}
+.bar9{
+	max-width: 70%;
+	content:'';
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 12px;
+	display:block;
+	z-index: -1;
+	background: #003D74;
+	position: relative;
+}
